@@ -4,8 +4,7 @@ RepoMirror is a full-stack developer tool that analyzes GitHub repositories to p
 
 The goal of this project is to help developers and students identify missing best practices in their projects—such as lack of documentation, poor file structure, or missing test cases—and fix them to make their portfolios production-ready.
 
-## Live Demo
-[Insert your Vercel deployment link here]
+
 
 ---
 
@@ -30,7 +29,7 @@ The goal of this project is to help developers and students identify missing bes
 - GitHub REST API
 
 **Database:**
-- MongoDB (Atlas)
+- MongoDB 
 
 ---
 
